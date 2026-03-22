@@ -1,0 +1,15 @@
+/vendor/
+/node_modules/
+
+/.idea/
+/.vscode/
+
+/.phpunit.cache/
+/coverage/
+
+/tests/tmp/
+
+/.trae/
+/.claude/
+
+.DS_Store
